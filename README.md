@@ -1,2 +1,2 @@
 # Heart-Disease-Analysis-Python-
-The Heart Disease Analysis Python project leverages machine learning algorithms to analyze and predict the likelihood of heart disease based on medical data.
+The Heart Disease Analysis Python project leverages machine learning algorithms to analyze and predict the likelihood of heart disease based on medical data. It involves data preprocessing, feature selection, and model training to identify relevant patterns and risk factors. Key steps include exploratory data analysis, model evaluation, and interpretation of results to aid in diagnosis and treatment planning. The project aims to provide accurate predictions and insights to support healthcare professionals in early detection and prevention of heart disease.
